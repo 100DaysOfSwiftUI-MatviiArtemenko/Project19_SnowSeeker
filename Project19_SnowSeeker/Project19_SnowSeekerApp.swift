@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// swiftlint:disable all
 @main
 struct Project19_SnowSeekerApp: App {
     var body: some Scene {
