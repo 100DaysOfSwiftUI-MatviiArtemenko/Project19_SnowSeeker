@@ -16,7 +16,7 @@ struct Facitity: Identifiable {
         "Beginners": "1.circle",
         "Cross-country": "map",
         "Eco-friendly": "leaf.arrow.circlepath",
-        "Family": "person.3"
+        "Family": "person.3",
     ]
 
     private let descriptions = [
@@ -24,7 +24,7 @@ struct Facitity: Identifiable {
         "Beginners": "This resort has lots of ski schools.",
         "Cross-country": "This resort has many cross-country ski routes.",
         "Eco-friendly": "This resort has won an award for environmental friendliness.",
-        "Family": "This resort is popular with families."
+        "Family": "This resort is popular with families.",
     ]
 
     var icon: some View {
